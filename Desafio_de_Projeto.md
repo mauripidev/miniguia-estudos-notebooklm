@@ -11,11 +11,11 @@ Para este estudo, foram selecionadas as seguintes fontes técnicas fundamentais:
 *   **Common Application Properties:** Referência de propriedades para configuração externa e Actuator [10, 11].
 *   **Repositório Oficial Spring Boot:** Metas de design e instalação do framework [6, 12].
 
-*https://docs.spring.io/spring-boot/index.html
-*https://spring.io/projects/spring-modulith
-*https://github.com/spring-projects/spring-boot/tree/main
-*https://docs.spring.io/spring-boot/appendix/application-properties/index.html
-*https://github.com/spring-projects/spring-framework/wiki/Spring-Framework-7.0-Release-Notes
+* https://docs.spring.io/spring-boot/index.html
+* https://spring.io/projects/spring-modulith
+* https://github.com/spring-projects/spring-boot/tree/main
+* https://docs.spring.io/spring-boot/appendix/application-properties/index.html
+* https://github.com/spring-projects/spring-framework/wiki/Spring-Framework-7.0-Release-Notes
 
 
 ## 3. Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
